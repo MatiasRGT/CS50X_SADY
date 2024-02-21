@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Has good times sorting best case, And has bad times sorting worst case
+
+sort2 uses: Merge Sort
+
+How do you know?: Has consistent decent times sorting both reversed and sorted lists
+
+sort3 uses: Selection Sort
+
+How do you know?: Has consistent bad times sorting reversed and sorted lists
