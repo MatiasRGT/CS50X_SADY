@@ -1,10 +1,5 @@
-Los archivos
+sort: Se entregan 3 archivos compilados que tienen distintos tipos de sort. Tambien se entregan 3 juegos de archivos para ser ordenados. Ejecutando cada programa con los distintos archivos y usando time, Se tiene que detectar cual algoritmo de ordenamiento usa cada programa.
 
-mario-less.c
-mario-more.c
-cash.c
-credit.c
+plurality: Simple sistema de votacion. se ingresan por argumentos los candidatos. Al iniciar programa se pregunta cuantos votantes existen. Se ingresa un voto con un candidato por votante.
 
-Son los archivos que se consideran como tarea completada. El resto de archivos son versiones no completas o en 'sucio' que contienen debug.
-
-Los archivos finalmente entregados fueron: mario-more.c; credit.c porque eran los ejer mas complejos.
+Tideman: Sistema de votacion por prioridad. Se ingresan por argumento los candidatos. Al iniciar programa se pregunta cuantos votantes existen. Cada votante ingresa su lista de prioridad con cada candidato. Luego se detecta ganador usando grafos
