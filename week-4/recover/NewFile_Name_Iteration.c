@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
         // Itera el nombre del siguiente archivo, ++
         num_nombre_uni++;
         if (num_nombre_uni == 10)
-        {
+        {   
             num_nombre_uni = 0;
             num_nombre_dec++;
 
